@@ -1,0 +1,73 @@
+
+Mael present:
+
+Convention pour les changements de chaines de caractères en valeur numériques:
+
+starring:personne fallait être là
+
+
+Data PassengerId :
+        Unchanged (inchangées pour Colin)
+
+
+Data Home Planet :
+        Earth=1
+        Europa=2
+        Mars=3
+
+
+Data CryoSleep :
+        False=0
+        True=1
+
+
+Data Cabin :
+        ?
+
+
+Data Destination :
+        TRAPPIST-1e=1
+        55 Cancri e=2
+        PSO J318.5-22=3
+
+
+Data Age : 
+        Unchanged (inchangées pour Colin)
+
+
+Data VIP :
+        False=0
+        True=1
+
+
+Data RoomService :
+        Unchanged
+
+
+Data FoodCourt :
+        Unchanged
+
+
+Data ShoppingMall :
+        Unchanged
+
+
+Data Spa : 
+        Unchanged
+
+
+Data VRDeck :
+        Unchanged
+
+
+Data Name :
+        ?
+
+
+Data Transported :
+        False=0
+        True=1
+
+
+
+
