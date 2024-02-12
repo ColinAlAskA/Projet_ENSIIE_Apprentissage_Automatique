@@ -69,5 +69,7 @@ Data Transported :
         True=1
 
 
-
-
+On divivise la variable cabine en 3: deck, num et side
+    deck est une lettre, on associe à chaque lettre un numéro: A->1 ,..., Z->26
+    num est déjà un numéro
+    side peu être P ou S (Port or Startboard) on associe 0 pour P et 1 pour S
