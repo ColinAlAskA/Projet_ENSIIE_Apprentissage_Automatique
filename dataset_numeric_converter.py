@@ -5,9 +5,9 @@ import pandas as pd
 train_df = pd.read_csv("train.csv")
 
 # Define mappings for categorical variables
-planet_mapping = {"Earth": 1, "Europa": 2, "Mars": 3}
+planet_mapping = {"Earth": 1, "Europa": 2, "Mars": 3} #il faudra peut êrte changer les valeurs car à priori on ne sait pas si Earth est plus proche que Mars Europa ou Mars on un odre d'importance
 cryo_sleep_mapping = {False: 0, True: 1}
-destination_mapping = {"TRAPPIST-1e": 1, "55 Cancri e": 2, "PSO J318.5-22": 3}
+destination_mapping = {"TRAPPIST-1e": 1, "55 Cancri e": 2, "PSO J318.5-22": 3} #idem
 vip_mapping = {False: 0, True: 1}
 transported_mapping = {False: 0, True: 1}
 
